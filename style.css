@@ -1,0 +1,70 @@
+*{font-family: "Kreon", serif;
+}
+
+div {
+    margin: 40px 0px 100px 60px
+}
+
+.link-div{
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 29px;
+    color: #d80000;
+    cursor: pointer;
+    margin-right: 50px;
+}
+
+.button-div{
+    background: #1f01c9;
+    border-radius: 30px;
+    width: 150px;
+    height: 55px;
+    border: none;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 29px;
+    color: #eee6e6;
+    cursor: pointer
+}
+
+img{
+    width: 400px;
+    height: 400px; 
+    margin-left: 125px;
+    display: inline-block;   
+}
+main{
+        font-weight: 300px;
+        font-size: 50px;
+        line-height: 50px;
+        color: #515151;
+        display: inline-block;
+    
+}
+section{
+    display: inline-block;
+    margin-left: 50px;
+    width: 515px;
+}
+h1{
+    line-height: 70px;
+}
+p{
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #515151;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+.button-main{
+    width: 300px;
+    height: 55px;
+    margin-bottom: 100px;
+    border: none;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 29px;
+    color: #09ff00;
+    cursor: pointer
+}
